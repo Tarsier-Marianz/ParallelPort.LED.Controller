@@ -1,0 +1,10 @@
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\Debug\ParallelPort.LED.Controller.exe
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\Debug\ParallelPort.LED.Controller.pdb
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\Debug\ParallelPort.LED.Controller.csprojResolveAssemblyReference.cache
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\Debug\ParallelPort.LED.Controller.ParallelForm.resources
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\Debug\ParallelPort.LED.Controller.Properties.Resources.resources
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\Debug\ParallelPort.LED.Controller.csproj.GenerateResource.Cache
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\Debug\ParallelPort.LED.Controller.exe
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\Debug\ParallelPort.LED.Controller.pdb
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\Debug\UI.FlightControl.dll
+c:\users\tarsier\documents\visual studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\Debug\UI.FlightControl.pdb
