@@ -1,6 +1,6 @@
 # ParallelPort.LED.Controller
 
-A simple Parallel Port(LPT port) tester which controls the LED state of each digital 'I/O' pins using _inpout32.dll_**.
+A simple **Parallel Port**(LPT port) tester which controls the LED state of each digital `I/O` pins using **_inpout32.dll_**.
 
 ## Screenshots
 ![ParallelPort](/screenshot.png "ParallelPort")
