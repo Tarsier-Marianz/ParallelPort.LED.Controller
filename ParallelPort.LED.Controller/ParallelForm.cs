@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace ParallelPort.LED.Controller {
     public partial class ParallelForm : Form {
+        private string[] dataAddresses = new string[] { "0x3BCh", "0x378h", "0x278h" }; //decimal {956,888,632}
         private string LED_NAME_SUFFIX = "ledControl";
         private int PORT_ADDRESS = 888;
         private int data = 0;
@@ -22,9 +23,9 @@ namespace ParallelPort.LED.Controller {
         }
 
         private void InitRegAddresses() {
-            cboxRegAdd.Items.Add("0x3BCh"); // 956 Decimal 
-            cboxRegAdd.Items.Add("0x378h"); // 888 Decimal
-            cboxRegAdd.Items.Add("0x278h"); // 632 Decimal
+            foreach(string add in dataAddresses) {
+                cboxRegAdd.Items.Add(add);
+            }
             cboxRegAdd.SelectedIndex = 1;
         }
 
@@ -64,11 +65,11 @@ namespace ParallelPort.LED.Controller {
         }
 
         private void cboxRegAdd_SelectedIndexChanged(object sender, EventArgs e) {
-            if (cboxRegAdd.SelectedIndex == 0) {
+            if(cboxRegAdd.SelectedIndex == 0) {
                 PORT_ADDRESS = 956;
-            }else if (cboxRegAdd.SelectedIndex == 1) {
+            } else if(cboxRegAdd.SelectedIndex == 1) {
                 PORT_ADDRESS = 888;
-            } else if (cboxRegAdd.SelectedIndex == 2) {
+            } else if(cboxRegAdd.SelectedIndex == 2) {
                 PORT_ADDRESS = 632;
             } else { }
         }

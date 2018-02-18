@@ -14,8 +14,6 @@ G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controll
 G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\x86\Debug\inpout32.dll
 G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\x86\Debug\ParallelPort.LED.Controller.exe
 G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\x86\Debug\ParallelPort.LED.Controller.pdb
-G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\x86\Debug\UI.FlightControl.dll
-G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\bin\x86\Debug\UI.FlightControl.pdb
 G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\x86\Debug\ParallelPort.LED.Controller.csprojResolveAssemblyReference.cache
 G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\x86\Debug\ParallelPort.LED.Controller.ParallelForm.resources
 G:\Users\TARSIER\Documents\Visual Studio 2012\Projects\ParallelPort.LED.Controller\ParallelPort.LED.Controller\obj\x86\Debug\ParallelPort.LED.Controller.Properties.Resources.resources
