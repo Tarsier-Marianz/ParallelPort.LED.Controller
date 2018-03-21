@@ -9,6 +9,9 @@ A simple **Parallel Port**(LPT port) tester that controls the LED state of each 
 
 ![ParallelPort](/References/screenshot2.png?raw=true "ParallelPort")
 
+## Circuit Diagram
+The prototype board of the this pararallel-port controller can be found [**here**](https://github.com/Tarsier-Marianz/parallelport_led).
+
 # Credits
 [Parallel Port Control](https://sourceforge.net/projects/lptcontrol/?source=directory)
 
